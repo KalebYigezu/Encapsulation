@@ -18,3 +18,4 @@ print(pw.getter_chars())
 # Protected Single Underscore
 # Private Double Underscore
 
+# It works for both variables and methods
