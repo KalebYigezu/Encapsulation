@@ -14,5 +14,7 @@ pw = Password('abc')
 pw.setter_chars('123')
 print(pw.getter_chars())
 
-
+# Public No underscore
+# Protected Single Underscore
+# Private Double Underscore
 
